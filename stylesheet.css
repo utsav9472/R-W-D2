@@ -1,0 +1,20 @@
+.Product-card{
+    height: 200px;
+    width: 320px;
+    background-color: #f4f4f4;
+    border: 2px solid;
+    border-color: #333;
+    border-radius:12px;
+    margin-left: 550px;
+}
+
+#heading{
+    color:#222222;
+
+    text-align:center;
+    
+}
+
+#par{
+    text-align: center;
+}
